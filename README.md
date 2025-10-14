@@ -570,3 +570,10 @@ Inside our action, we perform 3 steps:
    GitHub matches keys by prefix if we have no exact match for the primary cache.
 
 This scheme is basic and needs improvements. Pull requests and ideas are welcome.
+
+---
+
+## ⚠️ Archive Notice
+
+Blacksmith now supports transparent caching as explained in https://www.blacksmith.sh/blog/cache. To this effect it is recommended to switch to the upstream maintained versions of this action as you will continue to leverage our much faster caching without any code changes. This action will no longer receive dependency or security updates.
+
